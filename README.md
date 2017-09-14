@@ -1,3 +1,3 @@
 # go-proxy-example
 
-example how to use proxy with golang. editing transport
+An example how to use golang Transport with reverse proxy
